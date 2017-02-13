@@ -1,0 +1,23 @@
+{
+  "name": "clock-by-canvas",
+  "version": "1.0.0",
+  "description": "clock is made by canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willngess/clock-by-canvas.git"
+  },
+  "keywords": [
+    "clock",
+    "canvas"
+  ],
+  "author": "will",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willngess/clock-by-canvas/issues"
+  },
+  "homepage": "https://github.com/willngess/clock-by-canvas#readme"
+}
